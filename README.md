@@ -6,7 +6,9 @@ Here, I've added and *collected some URI problems solution in C and C++.You can 
 I'm Trying to add more Solutions... Keep in touch!<br>
 
 <strong>Contact with Me</strong><br> 
-<br>
+<br>https://www.facebook.com/junaid.hossain.796
+<br>Junaidhossain57@gmail.com
+
 -----------------------------------------------<br />
 
 Below solutions are available in this repository:<br />
