@@ -6,7 +6,7 @@ Here, I've added and *collected some URI problems solution in C and C++.You can 
 I'm Trying to add more Solutions... Keep in touch!<br>
 
 <strong>Contact with Me</strong><br> 
-Gmail    : anuhimel@gmail.com<br>
+<br>
 -----------------------------------------------<br />
 
 Below solutions are available in this repository:<br />
@@ -22,7 +22,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1001</td>
 <td>Extremely Basic</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.cpp">C++</a>
 </td>
 </tr>
@@ -30,7 +30,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1002</td>
 <td>Area of a Circle</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1002.cpp">C++</a>
 </td>
 </tr>
@@ -38,7 +38,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1003</td>
 <td>Simple Sum</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1003.cpp">C++</a>
 </td>
 </tr>
@@ -46,7 +46,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1004</td>
 <td>Simple Product</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1004.cpp">C++</a>
 </td>
 </tr>
@@ -54,23 +54,21 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1005</td>
 <td>Average 1</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.cpp">C++</a>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1005.cpp">C++</a>
 </td>
 </tr>
 
 <tr>
 <td>1006</td>
 <td>Average 2</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.c">C</a>,
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.cpp">C++</a>
+<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1006.cpp">C++</a>
 </td>
 </tr>
 
 <tr>
 <td>1007</td>
 <td>Difference</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1007.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1007.cpp">C++</a>
 </td>
 </tr>
