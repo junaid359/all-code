@@ -23,7 +23,7 @@ Below solutions are available in this repository:<br />
 <td>1001</td>
 <td>Extremely Basic</td>
 <td>
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1001.cpp">C++</a>
+    <a href="https://github.com/junaid359/my-code-/tree/master">C++</a>
 </td>
 </tr>
 
