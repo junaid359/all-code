@@ -726,7 +726,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1165</td>
 <td>Prime Number</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1165.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1165.cpp">C++</a>
 </td>
 </tr>
@@ -734,7 +734,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1172</td>
 <td>Array Replacement I</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1172.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1172.cpp">C++</a>
 </td>
 </tr>
@@ -742,7 +742,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1173</td>
 <td>Array fill I</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1173.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1173.cpp">C++</a>
 </td>
 </tr>
@@ -750,7 +750,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1174</td>
 <td>Array Selection I</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1174.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1174.cpp">C++</a>
 </td>
 </tr>
@@ -758,7 +758,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1175</td>
 <td>Array change I</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1175.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1175.cpp">C++</a>
 </td>
 </tr>
@@ -766,7 +766,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1176</td>
 <td>Fibonacci Array</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1176.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1176.cpp">C++</a>
 </td>
 </tr>
@@ -774,7 +774,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1177</td>
 <td>Array Fill II</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1177.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1177.cpp">C++</a>
 </td>
 </tr>
@@ -782,7 +782,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1178</td>
 <td>Array Fill III</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1178.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1178.cpp">C++</a>
 </td>
 </tr>
@@ -790,7 +790,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1179</td>
 <td>Array Fill IV</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1179.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1179.cpp">C++</a>
 </td>
 </tr>
@@ -798,7 +798,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1180</td>
 <td>Lowest Number and Position</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1180.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1180.cpp">C++</a>
 </td>
 </tr>
@@ -806,7 +806,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1181</td>
 <td>Line in Array</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1181.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1181.cpp">C++</a>
 </td>
 </tr>
@@ -814,7 +814,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1182</td>
 <td>Column in Array</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1182.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1182.cpp">C++</a>
 </td>
 </tr>
