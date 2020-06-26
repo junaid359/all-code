@@ -166,7 +166,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1019</td>
 <td>Time Conversion</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1019.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1019.cpp">C++</a>
 </td>
 </tr>
@@ -174,7 +174,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1020</td>
 <td>Age in Days</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1020.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1020.cpp">C++</a>
 </td>
 </tr>
@@ -558,7 +558,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1131</td>
 <td>Grenais</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1131.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1131.cpp">C++</a>
 </td>
 </tr>
@@ -566,7 +566,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1132</td>
 <td>Multiples of 13</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1132.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1132.cpp">C++</a>
 </td>
 </tr>
@@ -574,7 +574,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1133</td>
 <td>Rest of a Division</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1133.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1133.cpp">C++</a>
 </td>
 </tr>
@@ -582,7 +582,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1134</td>
 <td>Type of Fuel</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1134.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1134.cpp">C++</a>
 </td>
 </tr>
@@ -590,7 +590,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1142</td>
 <td>PUM</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1142.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1142.cpp">C++</a>
 </td>
 </tr>
@@ -598,7 +598,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1143</td>
 <td>Squared and Cubic</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1143.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1143.cpp">C++</a>
 </td>
 </tr>
@@ -606,7 +606,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1144</td>
 <td>Logical Sequence</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1114.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1114.cpp">C++</a>
 </td>
 </tr>
@@ -614,7 +614,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1145</td>
 <td>Logical Sequence 2</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1145.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1145.cpp">C++</a>
 </td>
 </tr>
@@ -622,7 +622,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1146</td>
 <td>Growing Sequences</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1146.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1146.cpp">C++</a>
 </td>
 </tr>
@@ -630,7 +630,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1149</td>
 <td>Summing Consecutive Integers</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1149.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1149.cpp">C++</a>
 </td>
 </tr>
@@ -638,7 +638,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1150</td>
 <td>Exceeding Z</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1150.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1150.cpp">C++</a>
 </td>
 </tr>
@@ -646,7 +646,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1151</td>
 <td>Easy Fibonacci</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1151.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1151.cpp">C++</a>
 </td>
 </tr>
@@ -654,7 +654,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1153</td>
 <td>Simple Factorial</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1153.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1153.cpp">C++</a>
 </td>
 </tr>
@@ -662,7 +662,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1154</td>
 <td>Ages</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1154.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1154.cpp">C++</a>
 </td>
 </tr>
@@ -670,7 +670,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1155</td>
 <td>S Sequence</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1155.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1155.cpp">C++</a>
 </td>
 </tr>
@@ -678,7 +678,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1156</td>
 <td>S Sequence II</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1156.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1156.cpp">C++</a>
 </td>
 </tr>
@@ -686,7 +686,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1157</td>
 <td>Divisors I</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1157.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1157.cpp">C++</a>
 </td>
 </tr>
@@ -694,7 +694,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1158</td>
 <td>Sum of Consecutive Odd Numbers III</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1158.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1158.cpp">C++</a>
 </td>
 </tr>
@@ -702,7 +702,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1159</td>
 <td>Sum of Consecutive Even Numbers</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1159.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1159.cpp">C++</a>
 </td>
 </tr>
@@ -710,7 +710,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1160</td>
 <td>Population Increase</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1160.c">C</a>,
+<td>
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1160.cpp">C++</a>
 </td>
 </tr>
@@ -718,7 +718,7 @@ Below solutions are available in this repository:<br />
 <tr>
 <td>1164</td>
 <td>Perfect Number</td>
-<td><a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1164.c">C</a>,
+<td>,
     <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1164.cpp">C++</a>
 </td>
 </tr>
