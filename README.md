@@ -111,7 +111,7 @@ Below solutions are available in this repository:<br />
 <td>1012</td>
 <td>Area Sequential</td>
 <td>
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1012.cpp">C++</a>
+    <a href="https://github.com/junaid359/my-code-/blob/master/uri%201012">C++</a>
 </td>
 </tr>
 
