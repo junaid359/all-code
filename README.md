@@ -119,7 +119,7 @@ Below solutions are available in this repository:<br />
 <td>1013</td>
 <td>The Greatest</td>
 <td>
-    <a href="https://github.com/HimelAhmed/URI-Online-Judge-Solutions/blob/master/All%20Codes/URI_1013.cpp">C++</a>
+    <https://github.com/junaid359/my-code-/blob/master/1013">C++</a>
 </td>
 </tr>
 
